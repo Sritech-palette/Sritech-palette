@@ -1,4 +1,4 @@
-# Hey, I'm Sri 👋
+# Hey, I'm Sri 👾
 
 ### `AI Engineer` · `Data Scientist` · `Collaborative Research Assistant`
 
@@ -9,15 +9,14 @@ Currently at **Invest UAE, Ministry of Investment**, where I work on data-driven
 Alongside the day job, I'm an active **research collaborator and published author**, with work spanning AI applications across different domains.
 
 ---
+## currently loading...
 
-## about me
 
-* 🎓 **M.S. in Computer Science** — New York Institute of Technology
-* 📍 **Dubai, UAE**
-* 💼 **AI Strategy & Executive Operations** — Invest UAE, Ministry of Investment
-* 🔬 **Published researcher** — Springer, Cambridge Scholars Publishing & others
-* 🤝 **Women in AI UAE** — Communication Management Volunteer
-* 🧠 Interested in the space between **AI, data, research & strategy**
+→ building AI solutions @ [Invest UAE] (https://www.linkedin.com/company/investuae/posts/?feedView=all) 
+→ researching + collaborating on applied AI with [Shugufta Ma'am](https://www.linkedin.com/in/shugufta-fatima-m161723m/)
+→ experimenting with LLMs & ML systems  
+→ volunteering as a Communication Management Volunteer to [Women in AI UAE](https://www.linkedin.com/showcase/women-in-ai-uae/posts/?feedView=all)
+→ based in Dubai 🇦🇪
 
 ---
 
@@ -92,26 +91,18 @@ I enjoy working on research problems where **AI meets real-world domains**.
 Currently collaborating on additional manuscripts across **AI, optimization, sustainability, analytics, and emerging technologies**.
 
 ---
-
 ## beyond the code
 
-My work isn't limited to building models.
+I'm a **Communication Management Volunteer at [Women in AI UAE](https://www.linkedin.com/showcase/women-in-ai-uae/posts/?feedView=all)**, support **AI initiatives**, and , I am deeply committed to driving AI literacy, community growth, and knowledge sharing.
 
-I've also worked on **government AI initiatives, investment research, strategic briefs, executive-level technology communication, and AI solution prototyping**.
-
-I like being close to both sides of the problem:
-
-**building the technology** ↔ **understanding why it matters**
+Occasionally write about **AI, technology, research, and things I'm learning** on [Medium](https://medium.com/@bangalisrichandana1).
 
 ---
 
 ## let's connect
 
-If you're working on something interesting in **AI, ML, GenAI, Data Science, Research, MLOps, or AI Strategy**, I'd love to connect.
+If you're working on something interesting in **AI, ML, and IoT**, I'd love to connect.
 
-📍 Dubai, UAE
-🌍 Open to relocation & global opportunities
-💼 Immediately available
 
 <p align="center">
   <a href="https://linkedin.com/in/sribangali">
