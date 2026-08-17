@@ -67,28 +67,6 @@ Alongside the day job, I'm an active **research collaborator and published autho
 
 ---
 
-## research
-
-I enjoy working on research problems where **AI meets real-world domains**.
-
-### selected publications
-
-**Adaptive Learning in Fraud Prevention**
-*Cambridge Scholars Publishing · 2026*
-
-**AI-Driven Insights into Fault Movements and Earthquake Dynamics**
-*Springer · 2025*
-
-**An Agriculturist's Partner — Agrobot**
-*Global Journal of Engineering Science · 2019*
-
-**Boosting Agricultural Energy Efficiency: Integrating AI for Sustainable Power Management and Renewable Systems**
-*Cambridge Scholars Publishing · In Press*
-
-**Quantum-Inspired Optimization for Algorithmic Trading**
-*Bentham Science · In Press*
-
-Currently collaborating on additional manuscripts across **AI, optimization, sustainability, analytics, and emerging technologies**.
 
 ---
 ## beyond the code
