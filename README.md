@@ -13,10 +13,12 @@ Alongside the day job, I'm an active **research collaborator and published autho
 
 
 → building AI solutions @ [Invest UAE] (https://www.linkedin.com/company/investuae/posts/?feedView=all) 
+
 → researching + collaborating on applied AI with [Shugufta Ma'am](https://www.linkedin.com/in/shugufta-fatima-m161723m/)
-→ experimenting with LLMs & ML systems  
+ 
 → volunteering as a Communication Management Volunteer to [Women in AI UAE](https://www.linkedin.com/showcase/women-in-ai-uae/posts/?feedView=all)
-→ based in Dubai 🇦🇪
+
+
 
 ---
 
