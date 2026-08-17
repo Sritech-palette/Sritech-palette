@@ -2,11 +2,7 @@
 
 ### `AI Engineer` · `Data Scientist` · `Collaborative Research Assistant`
 
-I'm a **Data Scientist & AI Engineer** based in Dubai, working across **AI, research, and government technology initiatives**.
-
-Currently at **Invest UAE, Ministry of Investment**, where I work on data-driven initiatives, AI solution prototypes, investment research, and technology strategy.
-
-Alongside the day job, I'm an active **research collaborator and published author**, with work spanning AI applications across different domains.
+I'm a **Data Scientist & AI Engineer** based in Dubai, working across **AI, research, and government technology initiatives**. Currently at **Invest UAE, Ministry of Investment**, where I work on data-driven initiatives, AI solution prototypes, investment research, and technology strategy. Alongside the day job, I'm an active **research collaborator and published author**, with work spanning AI applications across different domains.
 
 ---
 ## currently loading...
