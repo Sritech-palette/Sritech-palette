@@ -10,9 +10,9 @@ I'm a **Data Scientist & AI Engineer** based in Dubai, working across **AI, rese
 
 → building AI solutions @ [Invest UAE](https://www.linkedin.com/company/investuae/posts/?feedView=all) 
 
-→ researching + collaborating on applied AI with [Shugufta Ma'am](https://www.linkedin.com/in/shugufta-fatima-m161723m/)
+→ researching + collaborating on applied AI with [Shugufta Fatima](https://www.linkedin.com/in/shugufta-fatima-m161723m/)
  
-→ volunteering as a Communication Management Volunteer to [Women in AI UAE](https://www.linkedin.com/showcase/women-in-ai-uae/posts/?feedView=all)
+→ volunteering as a Communication Management Volunteer @ [Women in AI UAE](https://www.linkedin.com/showcase/women-in-ai-uae/posts/?feedView=all)
 
 
 
@@ -67,9 +67,9 @@ I'm a **Data Scientist & AI Engineer** based in Dubai, working across **AI, rese
 
 ## beyond the code
 
-I'm a **Communication Management Volunteer at [Women in AI UAE](https://www.linkedin.com/showcase/women-in-ai-uae/posts/?feedView=all)**, support **AI initiatives**, and , I am deeply committed to driving AI literacy, community growth, and knowledge sharing.
+I'm a **Communication Management Volunteer at [Women in AI UAE](https://www.linkedin.com/showcase/women-in-ai-uae/posts/?feedView=all)**, where I contribute to AI community initiatives, communication, community growth and knowledge sharing.
 
-Occasionally write about **AI, technology, research, and things I'm learning** on [Medium](https://medium.com/@bangalisrichandana1).
+Occasionally I write blogs about **AI, technology, research, and things I'm learning** on [Medium](https://medium.com/@bangalisrichandana1).
 
 ---
 
