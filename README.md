@@ -1,186 +1,113 @@
-## Hi there 👋
-
-# 👋 Hey, I'm Sri
+# Hey, I'm Sri 👋
 
 ### `AI Engineer` · `Data Scientist` · `Collaborative Research Assistant`
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=6C63FF&center=true&vCenter=true&width=800&lines=Building+AI+systems+that+solve+real+problems.;Turning+data+into+intelligence.;Researching.+Engineering.+Shipping.;AI+%C3%97+Data+%C3%97+Strategy+%C3%97+Impact." alt="Typing SVG" />
-</p>
+I'm a **Data Scientist & AI Engineer** based in Dubai, working across **AI, research, and government technology initiatives**.
 
-<p align="center">
-  <a href="https://linkedin.com/in/sribangali">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="mailto:bangalisrichandana1@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Let's%20Talk-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-</p>
+Currently at **Invest UAE, Ministry of Investment**, where I work on data-driven initiatives, AI solution prototypes, investment research, and technology strategy.
+
+Alongside the day job, I'm an active **research collaborator and published author**, with work spanning AI applications across different domains.
 
 ---
 
-## 🧠 About Me
+## about me
 
-I'm a **Data Scientist and AI Strategist** based in Dubai, working at the intersection of **machine learning, generative AI, data engineering, research, and strategy**.
+* 🎓 **M.S. in Computer Science** — New York Institute of Technology
+* 📍 **Dubai, UAE**
+* 💼 **AI Strategy & Executive Operations** — Invest UAE, Ministry of Investment
+* 🔬 **Published researcher** — Springer, Cambridge Scholars Publishing & others
+* 🤝 **Women in AI UAE** — Communication Management Volunteer
+* 🧠 Interested in the space between **AI, data, research & strategy**
 
-Currently working within the **UAE Ministry of Investment**, where I contribute to AI initiatives, investment data projects, strategic research, and AI solution prototypes.
+---
 
-# 🛠️ Tech Stack
+## tech stack
 
-### Languages
+### languages & core
 
 <p>
-<img src="https://skillicons.dev/icons?i=python,js,java,cpp" />
+  <img src="https://skillicons.dev/icons?i=python,js,java,cpp" />
 </p>
 
-`Python` · `SQL` · `JavaScript` · `Java` · `C++` · `MATLAB`
+`Python` `SQL` `JavaScript` `Java` `C++` `MATLAB`
 
-### AI / Machine Learning
+### AI / ML
 
 <p>
-<img src="https://skillicons.dev/icons?i=pytorch,tensorflow" />
+  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow" />
 </p>
 
-`PyTorch` · `TensorFlow` · `Scikit-learn` · `XGBoost` · `LightGBM` · `Hugging Face` · `NLP` · `LLMs`
+`PyTorch` `TensorFlow` `Scikit-learn` `XGBoost` `LightGBM`
+`Hugging Face` `LLMs` `NLP` `Predictive Analytics`
 
-### Data & Analytics
-
-`Pandas` · `NumPy` · `Spark` · `Hadoop` · `Databricks` · `Power BI` · `Tableau` · `Matplotlib` · `Plotly` · `Excel`
-
-### Cloud / MLOps / Engineering
+### data & analytics
 
 <p>
-<img src="https://skillicons.dev/icons?i=aws,azure,gcp,docker,kubernetes,git,github,fastapi,flask" />
+  <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb" />
 </p>
 
-`AWS SageMaker` · `Azure ML` · `Google Cloud` · `Docker` · `Kubernetes` · `CI/CD` · `FastAPI` · `Flask` · `REST APIs`
+`Pandas` `NumPy` `Spark` `Hadoop` `Databricks`
+`Power BI` `Tableau` `Matplotlib` `Seaborn` `Plotly` `Advanced Excel`
+
+### engineering / MLOps
+
+<p>
+  <img src="https://skillicons.dev/icons?i=docker,kubernetes,git,github,fastapi,flask" />
+</p>
+
+`Docker` `Kubernetes` `Git` `GitHub` `CI/CD` `Dagster`
+`FastAPI` `Flask` `REST APIs` `Model Deployment`
+
+### cloud
+
+<p>
+  <img src="https://skillicons.dev/icons?i=aws,azure,gcp" />
+</p>
+
+`AWS SageMaker` `Azure ML` `Google Cloud` `Databricks`
 
 ---
 
-# 🔬 Research
+## research
 
-Beyond engineering, I'm an active **research collaborator and published researcher**.
+I enjoy working on research problems where **AI meets real-world domains**.
 
-### Selected Publications
+### selected publications
 
-📖 **AI-Driven Insights into Fault Movements and Earthquake Dynamics**
-*Springer*
+**Adaptive Learning in Fraud Prevention**
+*Cambridge Scholars Publishing · 2026*
 
-🌱 **An Agriculturist's Partner — Agrobot**
-*Global Journal of Engineering Science*
+**AI-Driven Insights into Fault Movements and Earthquake Dynamics**
+*Springer · 2025*
 
-🔐 **Adaptive Learning in Fraud Prevention**
-*Cambridge Scholars Publishing*
+**An Agriculturist's Partner — Agrobot**
+*Global Journal of Engineering Science · 2019*
 
-⚡ **Boosting Agricultural Energy Efficiency with AI**
-*In Press*
+**Boosting Agricultural Energy Efficiency: Integrating AI for Sustainable Power Management and Renewable Systems**
+*Cambridge Scholars Publishing · In Press*
 
-📈 **Quantum-Inspired Optimization for Algorithmic Trading**
-*In Press*
+**Quantum-Inspired Optimization for Algorithmic Trading**
+*Bentham Science · In Press*
 
-Currently contributing to **multiple research manuscripts** spanning AI, optimization, sustainability, analytics, and emerging computational approaches.
-
----
-
-# 🏛️ AI × Government × Strategy
-
-One of the things that makes my work different is that I don't operate only on the engineering side.
-
-I've worked across:
-
-**AI Engineering**
-→ **Research**
-→ **Data Analytics**
-→ **Executive Strategy**
-→ **Government Initiatives**
-
-Some of my professional work includes:
-
-* Building AI solution prototypes and POCs
-* Supporting government AI initiatives
-* Producing strategic research briefs
-* Contributing to UAE FDI research and reporting
-* Investment and Free Zone data consolidation
-* Supporting executive-level AI initiatives
-* Presenting AI knowledge-sharing sessions to senior government leadership
+Currently collaborating on additional manuscripts across **AI, optimization, sustainability, analytics, and emerging technologies**.
 
 ---
 
-# 📚 Education
+## beyond the code
 
-🎓 **M.S. in Computer Science**
-New York Institute of Technology · New York, USA
+My work isn't limited to building models.
 
----
+I've also worked on **government AI initiatives, investment research, strategic briefs, executive-level technology communication, and AI solution prototyping**.
 
-# 🌐 Beyond Code
+I like being close to both sides of the problem:
 
-I'm also involved with **Women in AI UAE**, contributing to communication and community initiatives around AI.
-
-I believe some of the most interesting AI problems aren't purely technical.
-
-They're where:
-
-```text
-Technology
-     ×
-Human Intelligence
-     ×
-Research
-     ×
-Strategy
-     ×
-Society
-```
-
-meet.
+**building the technology** ↔ **understanding why it matters**
 
 ---
 
-# 🎯 Currently Exploring
+## let's connect
 
-```python
-currently_exploring = [
-    "Generative AI",
-    "LLM Applications",
-    "AI Agents",
-    "RAG & Knowledge Systems",
-    "AI Digital Twins",
-    "MLOps",
-    "AI Governance",
-    "Responsible AI",
-    "Applied AI Research",
-    "Intelligent Automation"
-]
-```
-
----
-
-# 💭 My Engineering Philosophy
-
-> **Don't build AI because you can. Build it because it should exist.**
-
-I care about the gap between a **cool demo** and a **useful system**.
-
-That means thinking about:
-
-* Data quality
-* Model behavior
-* System architecture
-* Deployment
-* Evaluation
-* Security
-* Governance
-* User experience
-* And ultimately, **impact**
-
----
-
-# 🤝 Let's Connect
-
-I'm always interested in conversations around:
-
-**AI · Machine Learning · Generative AI · Research · Data Science · MLOps · AI Strategy · Open Source**
+If you're working on something interesting in **AI, ML, GenAI, Data Science, Research, MLOps, or AI Strategy**, I'd love to connect.
 
 📍 Dubai, UAE
 🌍 Open to relocation & global opportunities
@@ -188,14 +115,13 @@ I'm always interested in conversations around:
 
 <p align="center">
   <a href="https://linkedin.com/in/sribangali">
-    <img src="https://img.shields.io/badge/LinkedIn-Sri%20Chandana%20Bangali-0A66C2?style=for-the-badge&logo=linkedin"/>
+    <img src="https://img.shields.io/badge/LinkedIn-Sri%20Chandana%20Bangali-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/>
   </a>
   <a href="mailto:bangalisrichandana1@gmail.com">
-    <img src="https://img.shields.io/badge/Email-bangalisrichandana1%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Email-Say%20Hi-EA4335?style=flat-square&logo=gmail&logoColor=white"/>
   </a>
 </p>
 
-
-
+<p align="center">
+  <sub>building · researching · learning</sub>
 </p>
-
