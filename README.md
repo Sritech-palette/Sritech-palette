@@ -12,7 +12,7 @@ Alongside the day job, I'm an active **research collaborator and published autho
 ## currently loading...
 
 
-→ building AI solutions @ [Invest UAE] (https://www.linkedin.com/company/investuae/posts/?feedView=all) 
+→ building AI solutions @ [Invest UAE](https://www.linkedin.com/company/investuae/posts/?feedView=all) 
 
 → researching + collaborating on applied AI with [Shugufta Ma'am](https://www.linkedin.com/in/shugufta-fatima-m161723m/)
  
@@ -69,8 +69,6 @@ Alongside the day job, I'm an active **research collaborator and published autho
 
 ---
 
-
----
 ## beyond the code
 
 I'm a **Communication Management Volunteer at [Women in AI UAE](https://www.linkedin.com/showcase/women-in-ai-uae/posts/?feedView=all)**, support **AI initiatives**, and , I am deeply committed to driving AI literacy, community growth, and knowledge sharing.
