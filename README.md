@@ -25,66 +25,6 @@ I'm a **Data Scientist and AI Strategist** based in Dubai, working at the inters
 
 Currently working within the **UAE Ministry of Investment**, where I contribute to AI initiatives, investment data projects, strategic research, and AI solution prototypes.
 
-I enjoy taking ideas through the entire journey:
-
-```text
-Problem
-  ↓
-Research
-  ↓
-Data
-  ↓
-Model / LLM
-  ↓
-System
-  ↓
-Deployment
-  ↓
-Impact
-```
-
-My goal isn't to build AI simply because it's possible.
-
-> **I want to build AI that is useful, measurable, and responsible.**
-
----
-
-## 🚀 What I Do
-
-```yaml
-AI:
-  - Generative AI
-  - LLM Applications
-  - NLP
-  - Knowledge Systems
-  - AI Digital Twins
-  - AI Agents
-
-Machine Learning:
-  - Predictive Analytics
-  - Classification
-  - Recommendation Systems
-  - Optimization
-  - Feature Engineering
-
-Engineering:
-  - ML Pipelines
-  - APIs
-  - Model Deployment
-  - MLOps
-  - Cloud-native Applications
-  - Workflow Automation
-
-Strategy:
-  - AI Strategy
-  - AI Governance
-  - Technology Research
-  - Executive Briefing
-  - AI Solution Prototyping
-```
-
----
-
 # 🛠️ Tech Stack
 
 ### Languages
@@ -114,60 +54,6 @@ Strategy:
 </p>
 
 `AWS SageMaker` · `Azure ML` · `Google Cloud` · `Docker` · `Kubernetes` · `CI/CD` · `FastAPI` · `Flask` · `REST APIs`
-
----
-
-# 🔥 Featured Projects
-
-## 🧬 AI Leadership Digital Twin
-
-An AI-powered knowledge system designed to transform a decade-long leadership journey into an interactive digital experience.
-
-**Stack:** `Claude` · `Power Apps` · `Vercel` · `Knowledge Architecture`
-
-**What I explored:**
-
-* Structured knowledge representation
-* LLM-powered interaction
-* Executive knowledge modeling
-* AI-driven storytelling
-* Digital twin architecture
-
-> **Turning institutional knowledge into something you can interact with.**
-
----
-
-## 🌱 Crop Recommendation System
-
-A machine learning system for agricultural decision-making using predictive modeling and adaptive learning approaches.
-
-**Stack:** `Python` · `Random Forest` · `Multi-Armed Bandits` · `Scikit-learn`
-
----
-
-## 🎨 Automated Virtual Art Gallery
-
-An automated content distribution workflow that brings art directly to users through WhatsApp.
-
-**Stack:** `n8n` · `Twilio API` · `JavaScript`
-
-> **Automation that turns a workflow into an experience.**
-
----
-
-## 📊 Smart Tourism Dashboard
-
-An interactive analytics dashboard designed to transform tourism data into actionable insights.
-
-**Stack:** `Power BI` · `Data Analytics` · `Data Visualization`
-
----
-
-## ⚙️ Sales Pipeline
-
-A reproducible data pipeline designed around modern workflow orchestration and version-controlled development.
-
-**Stack:** `Python` · `Dagster` · `Git`
 
 ---
 
@@ -309,13 +195,7 @@ I'm always interested in conversations around:
   </a>
 </p>
 
----
 
-<p align="center">
-
-### `Research → Build → Deploy → Learn → Repeat`
-
-**Turning data into intelligence. Turning intelligence into impact.**
 
 </p>
 
